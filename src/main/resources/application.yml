@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 1БАС24015
+
+server:
+  port: 1217

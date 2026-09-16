@@ -1,0 +1,6 @@
+> curl --location 'http://127.0.0.1:1217/api/student'
+{"name":"Георгий","age":20,"university":"МТУСИ","studentId":"1БАС24015"}%                                                                                                                           
+> curl --location 'http://127.0.0.1:1217/api/lab'
+{"number":1,"title":"Подготовка репозитория","subject":"РБПО","applicationName":"1БАС24015"}%                                                                                                       
+
+
